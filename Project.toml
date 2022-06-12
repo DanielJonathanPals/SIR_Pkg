@@ -1,0 +1,13 @@
+name = "SIR_Pkg"
+uuid = "3470bd7f-aafa-44bb-ae78-2156c6e29309"
+authors = ["Daniel Pals <Daniel.Pals@tum.de>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

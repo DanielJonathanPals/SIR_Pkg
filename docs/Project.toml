@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+SIR_Pkg = "3470bd7f-aafa-44bb-ae78-2156c6e29309"
