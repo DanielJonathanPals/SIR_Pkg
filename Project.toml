@@ -3,6 +3,15 @@ uuid = "3470bd7f-aafa-44bb-ae78-2156c6e29309"
 authors = ["Daniel Pals <Daniel.Pals@tum.de>"]
 version = "0.1.0"
 
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
 [compat]
 julia = "1.7.2"
 

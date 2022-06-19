@@ -1,4 +1,5 @@
-using SIR_Pkg
+include("../src/SIR_Pkg.jl")
+using .SIR_Pkg
 using Documenter
 
 DocMeta.setdocmeta!(SIR_Pkg, :DocTestSetup, :(using SIR_Pkg); recursive=true)

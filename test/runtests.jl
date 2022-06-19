@@ -1,6 +1,6 @@
-using SIR_Pkg
+#using SIR_Pkg
 using Test
 
 @testset "SIR_Pkg.jl" begin
-    # Write your tests here.
+    include("function_tests.jl")
 end
